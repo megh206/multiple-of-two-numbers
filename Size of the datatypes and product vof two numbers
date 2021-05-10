@@ -1,0 +1,23 @@
+// findingyhe size of datatype//
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"size of the int"<< size of int;
+cout<<"size of the char"<<size of char;
+cout<<"size of the float"<<size of float;
+cout<<"size of the double"<<size of the double;
+}
+
+//Product of two numbers//
+#include<iostream>
+using namespace std;
+int main()
+{
+int a,b, product;
+cout<<"enter two numbers";
+cin>>a>>b;
+product=a*b;
+cout<<"product"<<"="<<product;
+}
+
